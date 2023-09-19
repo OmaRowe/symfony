@@ -7,3 +7,4 @@ To upgrade, make sure to resolve all deprecation notices.
 
 This file will be updated on the [7.0 branch](https://github.com/symfony/symfony/blob/7.0/UPGRADE-7.0.md) for each
 deprecated feature that is removed.
+ 
